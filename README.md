@@ -7,7 +7,7 @@ Este repositorio contiene el trabajo práctico integrador realizado para la mate
 - **Melany Luz Valeria Wolanink**  
   [wolaninkmelany@gmail.com](email:wolaninkmelany@gmail.com)  
 - **Ezequiel Horacio Gomez**  
-  [ezequielhgomez@gmail.com](email:ezequielhgomez@gmail.com)
+  [ezequielhgomez@gmail.com](email:ezequielhgomez811@gmail.com)
 
 ## Contenidos del Trabajo
 
