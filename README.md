@@ -45,5 +45,3 @@ Este trabajo nos permitió:
 - Aplicar buenas prácticas en entornos de laboratorio.
 
 ---
-
-# TPIntegradorAYSO
